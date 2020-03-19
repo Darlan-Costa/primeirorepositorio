@@ -1,4 +1,7 @@
 Terra
 Marte
 Mercurio
+Saturno
+Netuno
 Plutao
+
